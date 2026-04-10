@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^cd \"d:\\\\marketplace -project\\\\senior-backend-test\" ; node src/server\\.js$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "senior-backend-test",
+  "version": "1.0.0",
+  "description": "Thank you for your interest in joining Fekra Solutions Hub.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asanadfekra/senior-backend-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/asanadfekra/senior-backend-test/issues"
+  },
+  "homepage": "https://github.com/asanadfekra/senior-backend-test#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "uuid": "^13.0.0"
+  }
+}
